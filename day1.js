@@ -214,21 +214,32 @@ else {
 // console.log(coffeeChoice)
 // console.log(coffeeChoice.length)
 
-//Favourite websites activity
- var websites = ['Facebook',
- 'insta',
- 'Reddit'];
- console.log(websites);
- websites.push('BBC','Apple');
+// //Favourite websites activity
+//  var websites = ['Facebook',
+//  'insta',
+//  'Reddit'];
 //  console.log(websites);
- websites.pop();
-//  console.log(websites);
-websites.shift('Apple');
+//  websites.push('BBC','Apple');
+// //  console.log(websites);
+//  websites.pop();
+// //  console.log(websites);
+// websites.shift('Apple');
+// // console.log(websites);
+// websites.unshift('Flipboard','Apple');
+// // console.log(websites);
+// websites.splice(0,0,'Google');
+// let bestwebs=websites.slice(1,3);console.log(bestwebs);
 // console.log(websites);
-websites.unshift('Flipboard','Apple');
-// console.log(websites);
-websites.splice(0,0,'Google');
-let bestwebs=websites.slice(1,3);console.log(bestwebs);
-console.log(websites);
-websites.sort();console.log(websites);
-websites.reverse();console.log(websites);
+// websites.sort();console.log(websites);
+// websites.reverse();console.log(websites);
+// var i = 0
+// for (i = 0; i < 100; i++ ) {
+    
+//          if (i%2 == 0){
+//               console.log('lets play some cool ass games together');
+//          }
+//          else {
+//              console.log(`THe world loves you ${i/100}`); 
+//          }
+       
+//          }
