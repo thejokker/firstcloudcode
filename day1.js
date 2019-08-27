@@ -201,7 +201,7 @@ else {
 
 // Arrays 
 // let coffeeChoice = [
-//     "Owen - sspresso",
+//     "Owen - esspresso",
 //     "Hamad - with sugar",
 //     "Sig - no sugar",
 //     "Anna - no milk",
